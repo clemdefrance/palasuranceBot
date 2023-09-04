@@ -1,0 +1,22 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <block type="s4d_login" id="SXCExlmTmvhdn}gMa6Qv" x="573" y="134">
+    <value name="TOKEN">
+      <shadow type="text" id="6GQ0cEUlexe(YG~}0kBg">
+        <field name="TEXT">MTE0ODI5ODI2MTc0MDkyOTA4NQ.GTXZQx._9oZ9FMqH_9zYxZH09cv0_tw9H3fsAURzSdN6Y</field>
+      </shadow>
+    </value>
+  </block>
+  <block type="s4d_on_connected" id="a-h3)H!#wZ3(Cn@/!W|K" x="480" y="315">
+    <statement name="STATEMENTS">
+      <block type="s4d_set_bot_game" id="S#qH#=+H0jYgd/M}T:yL">
+        <field name="OIFD">online</field>
+        <field name="TYPE">PLAYING</field>
+        <value name="GAME">
+          <block type="jg_text_remake_paragraph_quotes" id="MpPM9r(ZS/]6kH*Ba]E3">
+            <field name="TEXT">paladium</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+</xml>
